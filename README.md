@@ -106,9 +106,5 @@ docker run -d -p 8088:80 nginx-awad
 #### 4. Test the Container, open your browser and navigate to http://localhost:8088 to check if everything is okay
 
 ```bash
-(![Capture](https://github.com/mohamedawad40/Docker_day1/assets/156425667/f461c613-5e2a-4812-b367-daed64123354)
-)
-
-<img src="./hh.jpg" width="250" height="260">
 ```
 
