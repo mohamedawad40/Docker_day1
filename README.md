@@ -108,4 +108,4 @@ docker run -d -p 8088:80 nginx-awad
 ```bash
 
 ```
-![myimage]()
+![myimage](https://github.com/mohamedawad40/Docker_day1/blob/main/Capture.JPG)
